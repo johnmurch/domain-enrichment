@@ -1,6 +1,6 @@
 # domain-enrichment
 
-Normalizing Domain data and enrichment for future CRM
+Grab basic data from domain for future enrichment (e.g. local, crm, etc.)
 
 # Data Enrichment from Domain
 
